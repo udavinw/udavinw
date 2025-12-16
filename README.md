@@ -56,7 +56,7 @@ const udavin = {
   name: "Udavin Wijesundara",
   location: "Sri Lanka 🇱🇰",
   role: "Full-Stack Architect",
-  code: ["JavaScript", "TypeScript", "Dart", "PHP", "Python"],
+  code: ["JavaScript", "TypeScript", "PHP",],
   architecture: ["Microservices", "Event-Driven", "Serverless"],
   currentMission: "Building AI-powered full-stack solutions",
   funFact: "I turn coffee into code ☕ → 💻",
