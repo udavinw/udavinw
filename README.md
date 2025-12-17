@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="120" style="object-fit: cover; border-radius: 10px;" />
-  
-  <br/>
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+I'm+Udavin;Software+Engineering+Intern;Full+Stack+Developer;Building+Scalable+Web+Apps..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+I'm+Udavin;Software+Engineering+Intern;Full+Stack+Developer;Building+Scalable+Web+Apps..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,31 +22,19 @@
 <br/>
 
 <h3 align="center">⚡ About Me</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  I'm a <b>Software Engineering Intern</b> and <b>Undergraduate</b> based in <b>Sri Lanka</b>. <br>
-  I specialize in building full-stack web applications with modern interfaces and robust backends.
-</p>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="left">🔭 <b>Current Work</b></td>
-      <td align="left">Software Engineering Intern & Freelance Developer</td>
-    </tr>
-    <tr>
-      <td align="left">🌱 <b>Learning</b></td>
-      <td align="left">Next.js 14, Advanced System Architecture</td>
-    </tr>
-    <tr>
-      <td align="left">💼 <b>Specialty</b></td>
-      <td align="left">MERN Stack, PHP/Laravel, SaaS Development</td>
-    </tr>
-    <tr>
-      <td align="left">📫 <b>Contact</b></td>
-      <td align="left">udavinwijesundara@gmail.com</td>
-    </tr>
-  </table>
+  <p>
+    I'm a <b>Software Engineering Intern</b> and <b>Undergraduate</b> based in <b>Sri Lanka</b>. <br>
+    I specialize in building full-stack web applications with modern interfaces.
+  </p>
+  
+  <p>
+    🔭 <b>Current Work:</b> Software Engineering Intern & Freelance Developer<br>
+    🌱 <b>Learning:</b> Next.js 14, Advanced System Architecture<br>
+    💼 <b>Specialty:</b> MERN Stack, PHP/Laravel, SaaS Development<br>
+    📫 <b>Contact:</b> udavinwijesundara@gmail.com
+  </p>
 </div>
 
 <br/>
@@ -71,24 +55,24 @@
       <tr>
         <th>Project</th>
         <th>Description</th>
-        <th>Tech Stack</th>
+        <th>Tech</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><b>Tuition Management System</b></td>
         <td>A comprehensive LMS for the Sri Lankan education market handling students, payments, and scheduling.</td>
-        <td><img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" height="20"/></td>
+        <td><img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" height="30"/></td>
       </tr>
       <tr>
         <td><b>Job Portal</b></td>
         <td>Full-stack job board application connecting employers with candidates, featuring CV parsing and ATS scoring.</td>
-        <td><img src="https://skillicons.dev/icons?i=nextjs,express,mongodb&theme=dark" height="20"/></td>
+        <td><img src="https://skillicons.dev/icons?i=nextjs,express,mongodb&theme=dark" height="30"/></td>
       </tr>
       <tr>
         <td><b>Personal Portfolio</b></td>
         <td>Custom-built portfolio with a bespoke Admin Panel to manage projects and content dynamically.</td>
-        <td><img src="https://skillicons.dev/icons?i=php,mysql,js&theme=dark" height="20"/></td>
+        <td><img src="https://skillicons.dev/icons?i=php,mysql,js&theme=dark" height="30"/></td>
       </tr>
     </tbody>
   </table>
@@ -102,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udavinw&theme=dracula&hide_border=true&bg_color=0d1117" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=udavinw&theme=dracula&hide_border=true&bg_color=0d1117" alt="streak graph" />
 </div>
 
 <br/>
